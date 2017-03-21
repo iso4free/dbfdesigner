@@ -1,0 +1,26 @@
+1 VERSIONINFO
+FILEVERSION 0,0,1,328
+PRODUCTVERSION 0,0,1,1
+{
+ BLOCK "StringFileInfo"
+ {
+  BLOCK "040904B0"
+  {
+   VALUE "Comments", "\000"
+   VALUE "CompanyName", "\000"
+   VALUE "FileDescription", "DBDesigner\000"
+   VALUE "FileVersion", "0.0.1.328\000"
+   VALUE "InternalName", "dbdesigner\000"
+   VALUE "LegalCopyright", "Freevare (GPL v.2)\000"
+   VALUE "LegalTrademarks", "\000"
+   VALUE "OriginalFilename", "\000"
+   VALUE "ProductName", "DBF designer\000"
+   VALUE "ProductVersion", "0.0.1.1\000"
+  }
+ }
+ BLOCK "VarFileInfo"
+ {
+  VALUE "Translation", 0x0409, 0x04B0
+ }
+}
+

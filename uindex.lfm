@@ -1,0 +1,93 @@
+object IndexForm: TIndexForm
+  Left = 391
+  Height = 276
+  Top = 189
+  Width = 336
+  ClientHeight = 276
+  ClientWidth = 336
+  OnActivate = FormActivate
+  OnCreate = FormCreate
+  Position = poScreenCenter
+  LCLVersion = '1.4.2.0'
+  object Panel1: TPanel
+    Left = 0
+    Height = 276
+    Top = 0
+    Width = 170
+    Align = alLeft
+    ClientHeight = 276
+    ClientWidth = 170
+    TabOrder = 0
+    object Label1: TLabel
+      Left = 8
+      Height = 13
+      Top = 8
+      Width = 27
+      Caption = 'Fields'
+      ParentColor = False
+    end
+    object FieldsListBox: TListBox
+      Left = 1
+      Height = 231
+      Top = 44
+      Width = 168
+      Align = alBottom
+      ItemHeight = 0
+      TabOrder = 0
+    end
+  end
+  object Panel2: TPanel
+    Left = 170
+    Height = 276
+    Top = 0
+    Width = 166
+    Align = alClient
+    ClientHeight = 276
+    ClientWidth = 166
+    TabOrder = 1
+    object CheckGroup1: TCheckGroup
+      Left = 1
+      Height = 105
+      Top = 1
+      Width = 164
+      Align = alTop
+      AutoFill = True
+      Caption = 'Options'
+      ChildSizing.LeftRightSpacing = 6
+      ChildSizing.TopBottomSpacing = 6
+      ChildSizing.EnlargeHorizontal = crsHomogenousChildResize
+      ChildSizing.EnlargeVertical = crsHomogenousChildResize
+      ChildSizing.ShrinkHorizontal = crsScaleChilds
+      ChildSizing.ShrinkVertical = crsScaleChilds
+      ChildSizing.Layout = cclLeftToRightThenTopToBottom
+      ChildSizing.ControlsPerLine = 1
+      ClientHeight = 87
+      ClientWidth = 160
+      TabOrder = 0
+      object cbUnique: TCheckBox
+        Left = 6
+        Height = 25
+        Top = 6
+        Width = 148
+        Caption = 'Unique'
+        TabOrder = 0
+      end
+      object cbMaintained: TCheckBox
+        Left = 6
+        Height = 25
+        Top = 31
+        Width = 148
+        Caption = 'Maintained'
+        TabOrder = 1
+      end
+      object cbDescending: TCheckBox
+        Left = 6
+        Height = 25
+        Top = 56
+        Width = 148
+        Caption = 'Descending'
+        TabOrder = 2
+      end
+    end
+  end
+end

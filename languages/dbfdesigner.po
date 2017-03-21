@@ -1,0 +1,709 @@
+msgid "from other DBF tablefrom other DBF table"
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+#: taboutform.abouttabsheet.caption
+msgctxt "TABOUTFORM.ABOUTTABSHEET.CAPTION"
+msgid "About"
+msgstr ""
+
+#: taboutform.caption
+msgid "AboutForm"
+msgstr ""
+
+#: taboutform.gpltabsheet.caption
+msgctxt "TABOUTFORM.GPLTABSHEET.CAPTION"
+msgid "License"
+msgstr ""
+
+#: tformdbsructuredesigner.addbutton.caption
+msgid "Add new"
+msgstr ""
+
+#: tformdbsructuredesigner.addindexbutton.caption
+msgid "Add"
+msgstr ""
+
+#: tformdbsructuredesigner.borrowbutton.caption
+msgid "Borrow..."
+msgstr ""
+
+#: tformdbsructuredesigner.borrowbutton.hint
+msgid "Get structure info "
+msgstr ""
+
+#: tformdbsructuredesigner.borrowopendialog.title
+msgid "Open file"
+msgstr ""
+
+#: tformdbsructuredesigner.caption
+msgid "Table structure"
+msgstr ""
+
+#: tformdbsructuredesigner.changebutton.caption
+msgctxt "TFORMDBSRUCTUREDESIGNER.CHANGEBUTTON.CAPTION"
+msgid "Edit current"
+msgstr ""
+
+#: tformdbsructuredesigner.clearindexesbutton.caption
+msgid "Clear all"
+msgstr ""
+
+#: tformdbsructuredesigner.deletebutton.caption
+msgctxt "TFORMDBSRUCTUREDESIGNER.DELETEBUTTON.CAPTION"
+msgid "Delete current"
+msgstr ""
+
+#: tformdbsructuredesigner.fielddesclabel.caption
+msgid "Fields description"
+msgstr ""
+
+#: tformdbsructuredesigner.groupbox1.caption
+msgid "Table properties"
+msgstr ""
+
+#: tformdbsructuredesigner.indexcombobox.text
+msgid "none"
+msgstr ""
+
+#: tformdbsructuredesigner.infolabel.caption
+msgid "Enter field name of 10 characters or less,"
+msgstr ""
+
+#: tformdbsructuredesigner.menuitem1.caption
+msgid "Move Top"
+msgstr ""
+
+#: tformdbsructuredesigner.menuitem10.caption
+msgid "Borrow structure"
+msgstr ""
+
+#: tformdbsructuredesigner.menuitem11.caption
+msgctxt "TFORMDBSRUCTUREDESIGNER.MENUITEM11.CAPTION"
+msgid "-"
+msgstr ""
+
+#: tformdbsructuredesigner.menuitem2.caption
+msgid "Move Up"
+msgstr ""
+
+#: tformdbsructuredesigner.menuitem3.caption
+msgid "Move Down"
+msgstr ""
+
+#: tformdbsructuredesigner.menuitem4.caption
+msgid "Move Bottom"
+msgstr ""
+
+#: tformdbsructuredesigner.menuitem6.caption
+msgctxt "TFORMDBSRUCTUREDESIGNER.MENUITEM6.CAPTION"
+msgid "-"
+msgstr ""
+
+#: tformdbsructuredesigner.menuitem7.caption
+msgid "Append field"
+msgstr ""
+
+#: tformdbsructuredesigner.menuitem8.caption
+msgid "Edit field"
+msgstr ""
+
+#: tformdbsructuredesigner.menuitem9.caption
+msgid "Delete field"
+msgstr ""
+
+#: tformdbsructuredesigner.modifyindexbutton.caption
+msgid "Modify"
+msgstr ""
+
+#: tformdbsructuredesigner.packcheckbox.caption
+msgctxt "TFORMDBSRUCTUREDESIGNER.PACKCHECKBOX.CAPTION"
+msgid "Pack table"
+msgstr ""
+
+#: tformdbsructuredesigner.removeindexbutton.caption
+msgid "Remove"
+msgstr ""
+
+#: tformdbsructuredesigner.savebutton.caption
+msgid "Save&&Close"
+msgstr ""
+
+#: tformdbsructuredesigner.tabsheet1.caption
+msgctxt "TFORMDBSRUCTUREDESIGNER.TABSHEET1.CAPTION"
+msgid "Indexes"
+msgstr ""
+
+#: tformdbsructuredesigner.tabsheet2.caption
+msgid "Language"
+msgstr ""
+
+#: tformft.cancelbitbtn.caption
+msgctxt "TFORMFT.CANCELBITBTN.CAPTION"
+msgid "Cancel"
+msgstr ""
+
+#: tformft.caption
+msgctxt "TFORMFT.CAPTION"
+msgid "Field type"
+msgstr ""
+
+#: tformft.createbitbtn.caption
+msgctxt "TFORMFT.CREATEBITBTN.CAPTION"
+msgid "Create"
+msgstr ""
+
+#: tformft.fieldnamelabel.caption
+msgctxt "TFORMFT.FIELDNAMELABEL.CAPTION"
+msgid "Field name"
+msgstr ""
+
+#: tformft.fieldtypelabel.caption
+msgctxt "TFORMFT.FIELDTYPELABEL.CAPTION"
+msgid "Field type"
+msgstr ""
+
+#: tformft.precisionlabel.caption
+msgctxt "TFORMFT.PRECISIONLABEL.CAPTION"
+msgid "Precision"
+msgstr ""
+
+#: tformft.sizelabel.caption
+msgctxt "TFORMFT.SIZELABEL.CAPTION"
+msgid "Size"
+msgstr ""
+
+#: tformmain.acrrestructuredbf.caption
+msgid "Restructure"
+msgstr ""
+
+#: tformmain.acrrestructuredbf.hint
+msgid "Change field defines"
+msgstr ""
+
+#: tformmain.actclosedbf.caption
+msgid "Close"
+msgstr ""
+
+#: tformmain.actcreatedbf.caption
+msgctxt "TFORMMAIN.ACTCREATEDBF.CAPTION"
+msgid "Create"
+msgstr ""
+
+#: tformmain.actcreatedbf.hint
+msgid "Create new DBF table"
+msgstr ""
+
+#: tformmain.actcsvexport.caption
+msgid "Export as CSV"
+msgstr ""
+
+#: tformmain.acteditdata.caption
+msgid "Edit data"
+msgstr ""
+
+#: tformmain.acteditdata.hint
+msgid "Edit mode"
+msgstr ""
+
+#: tformmain.actfileexit.caption
+msgid "Exit"
+msgstr ""
+
+#: tformmain.actfileopen.caption
+msgid "Open..."
+msgstr ""
+
+#: tformmain.actfileopen.hint
+msgctxt "TFORMMAIN.ACTFILEOPEN.HINT"
+msgid "Open existing file"
+msgstr ""
+
+#: tformmain.action1.caption
+msgid "Action1"
+msgstr ""
+
+#: tformmain.action2.caption
+msgid "actFilter"
+msgstr ""
+
+#: tformmain.actpasexport.caption
+msgid "Export Pascal source"
+msgstr ""
+
+#: tformmain.actsearch.caption
+msgid "actSearch"
+msgstr ""
+
+#: tformmain.actsqlexport.caption
+msgid "actSQLExport"
+msgstr ""
+
+#: tformmain.caption
+msgid "DBDesigner"
+msgstr ""
+
+#: tformmain.dbflocalecombobox.text
+msgid "Win1251"
+msgstr ""
+
+#: tformmain.editmenuitem.caption
+msgid "&Edit"
+msgstr ""
+
+#: tformmain.editsettingsmenuitem.caption
+msgid "Settings"
+msgstr ""
+
+#: tformmain.exportdialog.title
+msgid "Save file as"
+msgstr ""
+
+#: tformmain.fileexportmenuitem.caption
+msgid "&Export As..."
+msgstr ""
+
+#: tformmain.filemenuitem.caption
+msgid "&File"
+msgstr ""
+
+#: tformmain.helpaboutmenuitem.caption
+msgid "&About..."
+msgstr ""
+
+#: tformmain.helpmanualmenuitem.caption
+msgid "&Manual"
+msgstr ""
+
+#: tformmain.helpmenuitem.caption
+msgid "&Help"
+msgstr ""
+
+#: tformmain.localelabel.caption
+msgctxt "TFORMMAIN.LOCALELABEL.CAPTION"
+msgid "DBF locale"
+msgstr ""
+
+#: tformmain.menuitem1.caption
+msgctxt "tformmain.menuitem1.caption"
+msgid "-"
+msgstr ""
+
+#: tformmain.menuitem10.caption
+msgid "Record..."
+msgstr ""
+
+#: tformmain.menuitem11.caption
+msgid "Delete"
+msgstr ""
+
+#: tformmain.menuitem12.caption
+msgid "Undelete"
+msgstr ""
+
+#: tformmain.menuitem13.caption
+msgid "Clear"
+msgstr ""
+
+#: tformmain.menuitem2.caption
+msgctxt "TFORMMAIN.MENUITEM2.CAPTION"
+msgid "-"
+msgstr ""
+
+#: tformmain.menuitem5.caption
+msgid "as Pascal source"
+msgstr ""
+
+#: tformmain.menuitem6.caption
+msgid "as SQL query"
+msgstr ""
+
+#: tformmain.menuitem7.caption
+msgid "Export as..."
+msgstr ""
+
+#: tformmain.menuitem8.caption
+msgid "CSV"
+msgstr ""
+
+#: tformmain.menuitem9.caption
+msgid "as CSV"
+msgstr ""
+
+#: tformmain.pascalmenuexport.caption
+msgid "Pascal source"
+msgstr ""
+
+#: tformmain.searchlabel.caption
+msgid "Search:"
+msgstr ""
+
+#: tformmain.searchspeedbutton.hint
+msgid "Search in current column"
+msgstr ""
+
+#: tformmain.showdeletedcheckbox.caption
+msgctxt "TFORMMAIN.SHOWDELETEDCHECKBOX.CAPTION"
+msgid "Show deleted"
+msgstr ""
+
+#: tformmain.showsourcecheckbox.caption
+msgctxt "TFORMMAIN.SHOWSOURCECHECKBOX.CAPTION"
+msgid "Show source"
+msgstr ""
+
+#: tformmain.sqlmenuexport.caption
+msgid "SQL query"
+msgstr ""
+
+#: tformmain.tableopendialog.title
+msgctxt "tformmain.tableopendialog.title"
+msgid "Open existing file"
+msgstr ""
+
+#: tformmain.toolscomparemenuitem.caption
+msgid "&Compare 2 tables"
+msgstr ""
+
+#: tformmain.toolsemptymenuitem.caption
+msgid "Empty Table"
+msgstr ""
+
+#: tformmain.toolsjoinmenuitem.caption
+msgid "&Join Data..."
+msgstr ""
+
+#: tformmain.toolsmenuitem.caption
+msgid "&Tools"
+msgstr ""
+
+#: tformmain.toolspackmenuitem.caption
+msgid "&Pack Table"
+msgstr ""
+
+#: tformmain.toolsrecodemenuitem.caption
+msgid "&Recode records..."
+msgstr ""
+
+#: tformmain.toolssortmenuitem.caption
+msgid "&Sort Data..."
+msgstr ""
+
+#: tformselectdbtype.cancelbitbtn.caption
+msgctxt "TFORMSELECTDBTYPE.CANCELBITBTN.CAPTION"
+msgid "Cancel"
+msgstr ""
+
+#: tformselectdbtype.caption
+msgctxt "TFORMSELECTDBTYPE.CAPTION"
+msgid "Create table"
+msgstr ""
+
+#: tformselectdbtype.cbtabletypecombobox.text
+msgctxt "TFORMSELECTDBTYPE.CBTABLETYPECOMBOBOX.TEXT"
+msgid "dBase III+"
+msgstr ""
+
+#: tformselectdbtype.createbitbtn.caption
+msgctxt "TFORMSELECTDBTYPE.CREATEBITBTN.CAPTION"
+msgid "Create"
+msgstr ""
+
+#: tformselectdbtype.tabletypelabel.caption
+msgid "Table type:"
+msgstr ""
+
+#: tindexform.cbdescending.caption
+msgid "Descending"
+msgstr ""
+
+#: tindexform.cbmaintained.caption
+msgid "Maintained"
+msgstr ""
+
+#: tindexform.cbunique.caption
+msgid "Unique"
+msgstr ""
+
+#: tindexform.checkgroup1.caption
+msgid "Options"
+msgstr ""
+
+#: tindexform.label1.caption
+msgid "Fields"
+msgstr ""
+
+#: urstrrings.rsabout
+msgctxt "urstrrings.rsabout"
+msgid "About"
+msgstr ""
+
+#: urstrrings.rsaboutdbfdesi
+msgid "About DBFDesigner"
+msgstr ""
+
+#: urstrrings.rsautoinc
+msgid "Autoinc"
+msgstr ""
+
+#: urstrrings.rsbinary
+msgid "Binary"
+msgstr ""
+
+#: urstrrings.rscancel
+msgctxt "urstrrings.rscancel"
+msgid "Cancel"
+msgstr ""
+
+#: urstrrings.rscharacter
+msgid "Character"
+msgstr ""
+
+#: urstrrings.rscodepage
+msgid "Codepage: "
+msgstr ""
+
+#: urstrrings.rscodepage866
+msgid "Codepage: 866"
+msgstr ""
+
+#: urstrrings.rscreate
+msgctxt "urstrrings.rscreate"
+msgid "Create"
+msgstr ""
+
+#: urstrrings.rscreatetable
+msgctxt "urstrrings.rscreatetable"
+msgid "Create table"
+msgstr ""
+
+#: urstrrings.rscsvfilescsva
+msgid "CSV files|*.csv|all files|*.*"
+msgstr ""
+
+#: urstrrings.rsdatanotsaved
+msgid "Data not saved! Please save data to continue"
+msgstr ""
+
+#: urstrrings.rsdate
+msgid "Date"
+msgstr ""
+
+#: urstrrings.rsdbaseiii
+msgctxt "urstrrings.rsdbaseiii"
+msgid "dBase III+"
+msgstr ""
+
+#: urstrrings.rsdbaseiv
+msgid "dBase IV"
+msgstr ""
+
+#: urstrrings.rsdbdesigner
+msgid "DBDesigner: "
+msgstr ""
+
+#: urstrrings.rsdbflocale
+msgctxt "urstrrings.rsdbflocale"
+msgid "DBF locale"
+msgstr ""
+
+#: urstrrings.rsdec
+msgid "DEC"
+msgstr ""
+
+#: urstrrings.rsdeletecurren
+msgctxt "urstrrings.rsdeletecurren"
+msgid "Delete current"
+msgstr ""
+
+#: urstrrings.rseditcurrent
+msgctxt "urstrrings.rseditcurrent"
+msgid "Edit current"
+msgstr ""
+
+#: urstrrings.rsenterfieldna
+msgid "Enter field name of 10 characters or less, begining with a letter. Use only A-Z, 0-9 or _."
+msgstr ""
+
+#: urstrrings.rsexportingrec
+msgid "Exporting %s record from %s"
+msgstr ""
+
+#: urstrrings.rsfielddesript
+msgid "Field desription"
+msgstr ""
+
+#: urstrrings.rsfieldname
+msgctxt "urstrrings.rsfieldname"
+msgid "Field name"
+msgstr ""
+
+#: urstrrings.rsfieldname2
+msgid "FIELD NAME"
+msgstr ""
+
+#: urstrrings.rsfieldtype
+msgctxt "urstrrings.rsfieldtype"
+msgid "Field type"
+msgstr ""
+
+#: urstrrings.rsfloat
+msgid "Float"
+msgstr ""
+
+#: urstrrings.rsfoxpro
+msgid "FoxPro"
+msgstr ""
+
+#: urstrrings.rsftblob
+msgid "ftBlob"
+msgstr ""
+
+#: urstrrings.rsftdbaseole
+msgid "ftDBaseOle"
+msgstr ""
+
+#: urstrrings.rsftfixedchar
+msgid "ftFixedChar"
+msgstr ""
+
+#: urstrrings.rsftlargeint
+msgid "ftLargeint"
+msgstr ""
+
+#: urstrrings.rsftmemo
+msgid "ftMemo"
+msgstr ""
+
+#: urstrrings.rsftwidestring
+msgid "ftWideString"
+msgstr ""
+
+#: urstrrings.rsindexes
+msgctxt "urstrrings.rsindexes"
+msgid "Indexes"
+msgstr ""
+
+#: urstrrings.rsindexmissing
+msgid ""
+"Index missing!\n"
+"All indexes will be cleared!\n"
+msgstr ""
+
+#: urstrrings.rslicense
+msgctxt "urstrrings.rslicense"
+msgid "License"
+msgstr ""
+
+#: urstrrings.rslogical
+msgid "Logical"
+msgstr ""
+
+#: urstrrings.rsmemo
+msgid "Memo"
+msgstr ""
+
+#: urstrrings.rsmode
+msgid "MODE"
+msgstr ""
+
+#: urstrrings.rsneedfieldnam
+msgid "Need field name! Please enter it."
+msgstr ""
+
+#: urstrrings.rsnumber
+msgid "Number"
+msgstr ""
+
+#: urstrrings.rsole
+msgid "OLE"
+msgstr ""
+
+#: urstrrings.rspacktable
+msgctxt "urstrrings.rspacktable"
+msgid "Pack table"
+msgstr ""
+
+#: urstrrings.rspascalinclud
+msgid "pascal include files|*.inc|pascal source files|*.pas|all files|*.*"
+msgstr ""
+
+#: urstrrings.rsprecision
+msgctxt "urstrrings.rsprecision"
+msgid "Precision"
+msgstr ""
+
+#: urstrrings.rsrecords
+msgid "Records: "
+msgstr ""
+
+#: urstrrings.rssaveandclose
+msgid "Save and close"
+msgstr ""
+
+#: urstrrings.rssavedas
+msgid "Saved as %s"
+msgstr ""
+
+#: urstrrings.rssearch
+msgid "Search"
+msgstr ""
+
+#: urstrrings.rsshowdeleted
+msgctxt "urstrrings.rsshowdeleted"
+msgid "Show deleted"
+msgstr ""
+
+#: urstrrings.rsshowsource
+msgctxt "urstrrings.rsshowsource"
+msgid "Show source"
+msgstr ""
+
+#: urstrrings.rssize
+msgctxt "urstrrings.rssize"
+msgid "Size"
+msgstr ""
+
+#: urstrrings.rssize2
+msgid "SIZE"
+msgstr ""
+
+#: urstrrings.rssqlqueryfile
+msgid "SQL query files|*.sql|all files|*.*"
+msgstr ""
+
+#: urstrrings.rstable
+msgid "Table: "
+msgstr ""
+
+#: urstrrings.rstablelevel
+msgid "Table level: "
+msgstr ""
+
+#: urstrrings.rstablepacked
+msgid "Table packed!"
+msgstr ""
+
+#: urstrrings.rstablesructur
+msgid "Table sructure info"
+msgstr ""
+
+#: urstrrings.rstabletype
+msgid "Table type"
+msgstr ""
+
+#: urstrrings.rstype
+msgid "TYPE"
+msgstr ""
+
+#: urstrrings.rsunknown
+msgid "unknown"
+msgstr ""
+
+#: urstrrings.rsvisualdbasev
+msgid "Visual dBase VII"
+msgstr ""
+
+#: urstrrings.rswaiting
+msgid "Waiting..."
+msgstr ""
+
