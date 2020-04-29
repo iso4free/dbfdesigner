@@ -31,7 +31,8 @@ uses
   SysUtils, FileUtil, SynHighlighterPas, SynMemo, SynHighlighterSQL,
   LResources, Forms, Controls, Graphics, Dialogs, Menus, ComCtrls, ExtCtrls,
   ActnList, DBGrids, Buttons, db, dbf, dbf_fields, StdCtrls, Grids,
-  DbCtrls, inifiles, Classes, urstrrings, LConvEncoding, Translations, DefaultTranslator, GetText;
+  DbCtrls, inifiles, Classes, urstrrings, LConvEncoding, Translations, DefaultTranslator,
+  GetText, LazUTF8;
 
 type
 

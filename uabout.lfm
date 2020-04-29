@@ -14,7 +14,7 @@ object AboutForm: TAboutForm
   OnClick = FormClick
   OnCreate = FormCreate
   Position = poScreenCenter
-  LCLVersion = '1.4.2.0'
+  LCLVersion = '7.1'
   object PoweredImage: TImage
     Left = 40
     Height = 94
@@ -515,14 +515,14 @@ object AboutForm: TAboutForm
     object AboutTabSheet: TTabSheet
       Tag = 1
       Caption = 'About'
-      ClientHeight = 190
-      ClientWidth = 304
+      ClientHeight = 182
+      ClientWidth = 306
       object Memo1: TMemo
         Tag = 1
         Left = 0
-        Height = 190
+        Height = 182
         Top = 0
-        Width = 304
+        Width = 306
         Align = alClient
         Lines.Strings = (
           ''
@@ -552,8 +552,8 @@ object AboutForm: TAboutForm
     object GPLTabSheet: TTabSheet
       Tag = 1
       Caption = 'License'
-      ClientHeight = 190
-      ClientWidth = 304
+      ClientHeight = 182
+      ClientWidth = 306
       object Memo2: TMemo
         Left = 0
         Height = 190
