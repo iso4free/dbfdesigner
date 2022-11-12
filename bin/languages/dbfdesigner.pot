@@ -1,0 +1,473 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+#: tformmain.acrrestructuredbf.caption
+msgid "Restructure"
+msgstr ""
+
+#: tformmain.acrrestructuredbf.hint
+msgid "Change field defines"
+msgstr ""
+
+#: tformmain.actclosedbf.caption
+msgid "Close"
+msgstr ""
+
+#: tformmain.actcreatedbf.caption
+msgctxt "tformmain.actcreatedbf.caption"
+msgid "Create"
+msgstr ""
+
+#: tformmain.actcreatedbf.hint
+msgid "Create new DBF table"
+msgstr ""
+
+#: tformmain.actcsvexport.caption
+msgid "Export as CSV"
+msgstr ""
+
+#: tformmain.acteditdata.caption
+msgid "Edit data"
+msgstr ""
+
+#: tformmain.acteditdata.hint
+msgid "Edit mode"
+msgstr ""
+
+#: tformmain.actfileexit.caption
+msgid "Exit"
+msgstr ""
+
+#: tformmain.actfileopen.caption
+msgid "Open..."
+msgstr ""
+
+#: tformmain.actfileopen.hint
+msgctxt "tformmain.actfileopen.hint"
+msgid "Open existing file"
+msgstr ""
+
+#: tformmain.action1.caption
+msgid "Action1"
+msgstr ""
+
+#: tformmain.action2.caption
+msgid "actFilter"
+msgstr ""
+
+#: tformmain.actpasexport.caption
+msgid "Export Pascal source"
+msgstr ""
+
+#: tformmain.actsearch.caption
+msgid "actSearch"
+msgstr ""
+
+#: tformmain.actsqlexport.caption
+msgid "actSQLExport"
+msgstr ""
+
+#: tformmain.caption
+msgid "DBDesigner"
+msgstr ""
+
+#: tformmain.dbflocalecombobox.text
+msgid "Win1251"
+msgstr ""
+
+#: tformmain.editmenuitem.caption
+msgid "&Edit"
+msgstr ""
+
+#: tformmain.editsettingsmenuitem.caption
+msgid "Settings"
+msgstr ""
+
+#: tformmain.exportdialog.title
+msgid "Save file as"
+msgstr ""
+
+#: tformmain.fileexportmenuitem.caption
+msgid "&Export As..."
+msgstr ""
+
+#: tformmain.filemenuitem.caption
+msgid "&File"
+msgstr ""
+
+#: tformmain.helpaboutmenuitem.caption
+msgid "&About..."
+msgstr ""
+
+#: tformmain.helpmanualmenuitem.caption
+msgid "&Manual"
+msgstr ""
+
+#: tformmain.helpmenuitem.caption
+msgid "&Help"
+msgstr ""
+
+#: tformmain.localelabel.caption
+msgctxt "tformmain.localelabel.caption"
+msgid "DBF locale"
+msgstr ""
+
+#: tformmain.menuitem10.caption
+msgid "Record..."
+msgstr ""
+
+#: tformmain.menuitem11.caption
+msgid "Delete"
+msgstr ""
+
+#: tformmain.menuitem12.caption
+msgid "Undelete"
+msgstr ""
+
+#: tformmain.menuitem13.caption
+msgid "Clear"
+msgstr ""
+
+#: tformmain.menuitem5.caption
+msgid "as Pascal source"
+msgstr ""
+
+#: tformmain.menuitem6.caption
+msgid "as SQL query"
+msgstr ""
+
+#: tformmain.menuitem7.caption
+msgid "Export as..."
+msgstr ""
+
+#: tformmain.menuitem8.caption
+msgid "CSV"
+msgstr ""
+
+#: tformmain.menuitem9.caption
+msgid "as CSV"
+msgstr ""
+
+#: tformmain.pascalmenuexport.caption
+msgid "Pascal source"
+msgstr ""
+
+#: tformmain.searchlabel.caption
+msgid "Search:"
+msgstr ""
+
+#: tformmain.searchspeedbutton.hint
+msgid "Search in current column"
+msgstr ""
+
+#: tformmain.showdeletedcheckbox.caption
+msgctxt "tformmain.showdeletedcheckbox.caption"
+msgid "Show deleted"
+msgstr ""
+
+#: tformmain.showsourcecheckbox.caption
+msgctxt "tformmain.showsourcecheckbox.caption"
+msgid "Show source"
+msgstr ""
+
+#: tformmain.sqlmenuexport.caption
+msgid "SQL query"
+msgstr ""
+
+#: tformmain.tableopendialog.title
+msgctxt "tformmain.tableopendialog.title"
+msgid "Open existing file"
+msgstr ""
+
+#: tformmain.toolscomparemenuitem.caption
+msgid "&Compare 2 tables"
+msgstr ""
+
+#: tformmain.toolsemptymenuitem.caption
+msgid "Empty Table"
+msgstr ""
+
+#: tformmain.toolsjoinmenuitem.caption
+msgid "&Join Data..."
+msgstr ""
+
+#: tformmain.toolsmenuitem.caption
+msgid "&Tools"
+msgstr ""
+
+#: tformmain.toolspackmenuitem.caption
+msgid "&Pack Table"
+msgstr ""
+
+#: tformmain.toolsrecodemenuitem.caption
+msgid "&Recode records..."
+msgstr ""
+
+#: tformmain.toolssortmenuitem.caption
+msgid "&Sort Data..."
+msgstr ""
+
+#: urstrrings.rsabout
+msgid "About"
+msgstr ""
+
+#: urstrrings.rsaboutdbfdesi
+msgid "About DBFDesigner"
+msgstr ""
+
+#: urstrrings.rsautoinc
+msgid "Autoinc"
+msgstr ""
+
+#: urstrrings.rsbinary
+msgid "Binary"
+msgstr ""
+
+#: urstrrings.rscancel
+msgid "Cancel"
+msgstr ""
+
+#: urstrrings.rscharacter
+msgid "Character"
+msgstr ""
+
+#: urstrrings.rscodepage
+msgid "Codepage: "
+msgstr ""
+
+#: urstrrings.rscodepage866
+msgid "Codepage: 866"
+msgstr ""
+
+#: urstrrings.rscreate
+msgctxt "urstrrings.rscreate"
+msgid "Create"
+msgstr ""
+
+#: urstrrings.rscreatetable
+msgid "Create table"
+msgstr ""
+
+#: urstrrings.rscsvfilescsva
+msgid "CSV files|*.csv|all files|*.*"
+msgstr ""
+
+#: urstrrings.rsdatanotsaved
+msgid "Data not saved! Please save data to continue"
+msgstr ""
+
+#: urstrrings.rsdate
+msgid "Date"
+msgstr ""
+
+#: urstrrings.rsdbaseiii
+msgid "dBase III+"
+msgstr ""
+
+#: urstrrings.rsdbaseiv
+msgid "dBase IV"
+msgstr ""
+
+#: urstrrings.rsdbdesigner
+msgid "DBDesigner: "
+msgstr ""
+
+#: urstrrings.rsdbflocale
+msgctxt "urstrrings.rsdbflocale"
+msgid "DBF locale"
+msgstr ""
+
+#: urstrrings.rsdec
+msgid "DEC"
+msgstr ""
+
+#: urstrrings.rsdeletecurren
+msgid "Delete current"
+msgstr ""
+
+#: urstrrings.rseditcurrent
+msgid "Edit current"
+msgstr ""
+
+#: urstrrings.rsenterfieldna
+msgid "Enter field name of 10 characters or less, begining with a letter. Use only A-Z, 0-9 or _."
+msgstr ""
+
+#: urstrrings.rsexportingrec
+#, object-pascal-format
+msgid "Exporting %s record from %s"
+msgstr ""
+
+#: urstrrings.rsfielddesript
+msgid "Field desription"
+msgstr ""
+
+#: urstrrings.rsfieldname
+msgid "Field name"
+msgstr ""
+
+#: urstrrings.rsfieldname2
+msgid "FIELD NAME"
+msgstr ""
+
+#: urstrrings.rsfieldtype
+msgid "Field type"
+msgstr ""
+
+#: urstrrings.rsfloat
+msgid "Float"
+msgstr ""
+
+#: urstrrings.rsfoxpro
+msgid "FoxPro"
+msgstr ""
+
+#: urstrrings.rsftblob
+msgid "ftBlob"
+msgstr ""
+
+#: urstrrings.rsftdbaseole
+msgid "ftDBaseOle"
+msgstr ""
+
+#: urstrrings.rsftfixedchar
+msgid "ftFixedChar"
+msgstr ""
+
+#: urstrrings.rsftlargeint
+msgid "ftLargeint"
+msgstr ""
+
+#: urstrrings.rsftmemo
+msgid "ftMemo"
+msgstr ""
+
+#: urstrrings.rsftwidestring
+msgid "ftWideString"
+msgstr ""
+
+#: urstrrings.rsindexes
+msgid "Indexes"
+msgstr ""
+
+#: urstrrings.rsindexmissing
+msgid ""
+"Index missing!\n"
+"All indexes will be cleared!"
+msgstr ""
+
+#: urstrrings.rslicense
+msgid "License"
+msgstr ""
+
+#: urstrrings.rslogical
+msgid "Logical"
+msgstr ""
+
+#: urstrrings.rsmemo
+msgid "Memo"
+msgstr ""
+
+#: urstrrings.rsmode
+msgid "MODE"
+msgstr ""
+
+#: urstrrings.rsneedfieldnam
+msgid "Need field name! Please enter it."
+msgstr ""
+
+#: urstrrings.rsnumber
+msgid "Number"
+msgstr ""
+
+#: urstrrings.rsole
+msgid "OLE"
+msgstr ""
+
+#: urstrrings.rspacktable
+msgid "Pack table"
+msgstr ""
+
+#: urstrrings.rspascalinclud
+msgid "pascal include files|*.inc|pascal source files|*.pas|all files|*.*"
+msgstr ""
+
+#: urstrrings.rsprecision
+msgid "Precision"
+msgstr ""
+
+#: urstrrings.rsrecords
+msgid "Records: "
+msgstr ""
+
+#: urstrrings.rssaveandclose
+msgid "Save and close"
+msgstr ""
+
+#: urstrrings.rssavedas
+#, object-pascal-format
+msgid "Saved as %s"
+msgstr ""
+
+#: urstrrings.rssearch
+msgid "Search"
+msgstr ""
+
+#: urstrrings.rsshowdeleted
+msgctxt "urstrrings.rsshowdeleted"
+msgid "Show deleted"
+msgstr ""
+
+#: urstrrings.rsshowsource
+msgctxt "urstrrings.rsshowsource"
+msgid "Show source"
+msgstr ""
+
+#: urstrrings.rssize
+msgid "Size"
+msgstr ""
+
+#: urstrrings.rssize2
+msgid "SIZE"
+msgstr ""
+
+#: urstrrings.rssqlqueryfile
+msgid "SQL query files|*.sql|all files|*.*"
+msgstr ""
+
+#: urstrrings.rstable
+msgid "Table: "
+msgstr ""
+
+#: urstrrings.rstablelevel
+msgid "Table level: "
+msgstr ""
+
+#: urstrrings.rstablepacked
+msgid "Table packed!"
+msgstr ""
+
+#: urstrrings.rstablesructur
+msgid "Table sructure info"
+msgstr ""
+
+#: urstrrings.rstabletype
+msgid "Table type"
+msgstr ""
+
+#: urstrrings.rstype
+msgid "TYPE"
+msgstr ""
+
+#: urstrrings.rsunknown
+msgid "unknown"
+msgstr ""
+
+#: urstrrings.rsvisualdbasev
+msgid "Visual dBase VII"
+msgstr ""
+
+#: urstrrings.rswaiting
+msgid "Waiting..."
+msgstr ""
+

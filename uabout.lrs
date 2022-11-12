@@ -1,27 +1,25 @@
-{ This is an automatically generated lazarus resource file }
-
 LazarusResources.Add('TAboutForm','FORMDATA',[
   'TPF0'#10'TAboutForm'#9'AboutForm'#3'Tag'#2#1#4'Left'#3'#'#1#6'Height'#3#242#0
   +#3'Top'#3#171#0#5'Width'#3#8#2#11'BorderIcons'#11#0#11'BorderStyle'#7#6'bsNo'
   +'ne'#7'Caption'#6#9'AboutForm'#12'ClientHeight'#3#242#0#11'ClientWidth'#3#8#2
   +#5'Color'#7#7'clWhite'#10'KeyPreview'#9#7'OnClick'#7#9'FormClick'#8'OnCreate'
-  +#7#10'FormCreate'#8'Position'#7#14'poScreenCenter'#10'LCLVersion'#6#7'1.4.2.'
-  +'0'#0#6'TImage'#12'PoweredImage'#4'Left'#2'('#6'Height'#2'^'#3'Top'#2'@'#5'W'
-  +'idth'#2'^'#8'AutoSize'#9#7'OnClick'#7#9'FormClick'#12'Picture.Data'#10'q;'#0
-  +#0#23'TPortableNetworkGraphicU;'#0#0#137'PNG'#13#10#26#10#0#0#0#13'IHDR'#0#0
-  +#0'^'#0#0#0'^'#8#6#0#0#0#170#210#163'n'#0#0#0#4'sBIT'#8#8#8#8'|'#8'd'#136#0#0
-  +#0#9'pHYs'#0#0#16#29#0#0#16#29#1#209#185'TC'#0#0#0#25'tEXtSoftware'#0'www.in'
-  +'kscape.org'#155#238'<'#26#0#0' '#0'IDATx'#156#205#157'w'#156'\U'#249#255#223
-  +#183'L'#159#237#189#215'l'#178#155'l'#178#155#222'I'#8#129#208#130#137#128'4'
-  +')'#10#8#162'(*'#168'`A'#172'('#22#236'(*"'#130'H'#239#129#16'BBz'#217#244'd'
-  +'7'#155#237#189#239#236'N'#159#185#247#254#254#184'S'#179#9'I'#16#253#254#158
-  +'Wnfvn;'#231's'#158#251#244's'#174#160'i'#26#255#191#145' '#8#214#194#242#218
-  +#233'F'#147'e'#166#166'iS'#149#160#191'$'#24#240#231#6#252#222'4'#191#223#157
-  +#232#247#186'-^'#183'S'#6#13#147#197#30'4'#154'm'#30#163#209'2&'#27'L'#3#146
-  +'l'#236#22'%C3p4'#224#247#238#235'n=xH'#211'4'#247#255'u'#159'N&'#225#255#23
-  +#224#11#203'j'#166'K'#178#252#221#177#145#190#229'#'#131#221')'#154#166'~,'
-  +#215#21#4#145#196#212#236'a[b'#198'z%'#24#248'Ao'#251#145#195#31#203#133#255
-  +'C'#250'?'#5#190#172'r'#222'e'#138#18#248#218#232'`'#215'\'#199'H'#191#229'T'
+  +#7#10'FormCreate'#8'Position'#7#14'poScreenCenter'#10'LCLVersion'#6#3'7.1'#0
+  +#6'TImage'#12'PoweredImage'#4'Left'#2'('#6'Height'#2'^'#3'Top'#2'@'#5'Width'
+  +#2'^'#8'AutoSize'#9#7'OnClick'#7#9'FormClick'#12'Picture.Data'#10'q;'#0#0#23
+  +'TPortableNetworkGraphicU;'#0#0#137'PNG'#13#10#26#10#0#0#0#13'IHDR'#0#0#0'^'
+  +#0#0#0'^'#8#6#0#0#0#170#210#163'n'#0#0#0#4'sBIT'#8#8#8#8'|'#8'd'#136#0#0#0#9
+  +'pHYs'#0#0#16#29#0#0#16#29#1#209#185'TC'#0#0#0#25'tEXtSoftware'#0'www.inksca'
+  +'pe.org'#155#238'<'#26#0#0' '#0'IDATx'#156#205#157'w'#156'\U'#249#255#223#183
+  +'L'#159#237#189#215'l'#178#155'l'#178#155#222'I'#8#129#208#130#137#128'4)'#10
+  +#8#162'(*'#168'`A'#172'('#22#236'(*"'#130'H'#239#129#16'BBz'#217#244'd7'#155
+  +#237#189#239#236'N'#159#185#247#254#254#184'S'#179#9'I'#16#253#254#158'Wnfvn'
+  +';'#231's'#158#251#244's'#174#160'i'#26#255#191#145' '#8#214#194#242#218#233
+  +'F'#147'e'#166#166'iS'#149#160#191'$'#24#240#231#6#252#222'4'#191#223#157#232
+  +#247#186'-^'#183'S'#6#13#147#197#30'4'#154'm'#30#163#209'2&'#27'L'#3#146'l'
+  +#236#22'%C3p4'#224#247#238#235'n=xH'#211'4'#247#255'u'#159'N&'#225#255#23#224
+  +#11#203'j'#166'K'#178#252#221#177#145#190#229'#'#131#221')'#154#166'~,'#215
+  +#21#4#145#196#212#236'a[b'#198'z%'#24#248'Ao'#251#145#195#31#203#133#255'C'
+  +#250'?'#5#190#172'r'#222'e'#138#18#248#218#232'`'#215'\'#199'H'#191#229'T'
   +#199'H'#146#140#197#150#136#213#150#136#213#158#136#213#154#136#197#166'o'#0
   +'.'#231#24'n'#215#24#30#151'#'#244'9'#134#199'='#142#170#4'OyO{R'#134#203#158
   +#156#181']'#146#12'?'#239'l'#170'['#247#223#235#221#135#211#255#28#248'I'#211
@@ -650,9 +648,9 @@ LazarusResources.Add('TAboutForm','FORMDATA',[
   +'nal'#9#7'Stretch'#9#0#0#12'TPageControl'#16'AboutPageControl'#3'Tag'#2#1#4
   +'Left'#3#192#0#6'Height'#3#216#0#3'Top'#2#8#5'Width'#3'8'#1#10'ActivePage'#7
   +#13'AboutTabSheet'#8'TabIndex'#2#0#8'TabOrder'#2#0#0#9'TTabSheet'#13'AboutTa'
-  +'bSheet'#3'Tag'#2#1#7'Caption'#6#5'About'#12'ClientHeight'#3#190#0#11'Client'
-  +'Width'#3'0'#1#0#5'TMemo'#5'Memo1'#3'Tag'#2#1#4'Left'#2#0#6'Height'#3#190#0#3
-  +'Top'#2#0#5'Width'#3'0'#1#5'Align'#7#8'alClient'#13'Lines.Strings'#1#6#0#6'9'
+  +'bSheet'#3'Tag'#2#1#7'Caption'#6#5'About'#12'ClientHeight'#3#182#0#11'Client'
+  +'Width'#3'2'#1#0#5'TMemo'#5'Memo1'#3'Tag'#2#1#4'Left'#2#0#6'Height'#3#182#0#3
+  +'Top'#2#0#5'Width'#3'2'#1#5'Align'#7#8'alClient'#13'Lines.Strings'#1#6#0#6'9'
   +'DBDesigner is freeware tool for vorking with dBase III+, '#6'!dBase IV, Vis'
   +'ual dBase and FoxPro'#6#7'tables.'#6#0#6#30'It has the following features:'
   +#6',- Works without the Borland Database Engine.'#6'6- Allows the use of all'
@@ -664,7 +662,7 @@ LazarusResources.Add('TAboutForm','FORMDATA',[
   +'t formats: CSV, HTML, SQL, '#6',pascal source (procedure for creating table'
   +')'#6#11'- and so on'#0#8'ReadOnly'#9#10'ScrollBars'#7#10'ssAutoBoth'#8'TabO'
   +'rder'#2#0#0#0#0#9'TTabSheet'#11'GPLTabSheet'#3'Tag'#2#1#7'Caption'#6#7'Lice'
-  +'nse'#12'ClientHeight'#3#190#0#11'ClientWidth'#3'0'#1#0#5'TMemo'#5'Memo2'#4
+  +'nse'#12'ClientHeight'#3#182#0#11'ClientWidth'#3'2'#1#0#5'TMemo'#5'Memo2'#4
   +'Left'#2#0#6'Height'#3#190#0#3'Top'#2#0#5'Width'#3'0'#1#5'Align'#7#8'alClien'
   +'t'#13'Lines.Strings'#1#6#0#6'.                    GNU GENERAL PUBLIC LICENS'
   +'E'#6'+                       Version 2, June 1991'#6#0#6'4 Copyright (C) 19'
@@ -711,23 +709,23 @@ LazarusResources.Add('TAboutForm','FORMDATA',[
   +' proprietary.  To prevent this, we have made it '#6#14'clear that any'#6'7p'
   +'atent must be licensed for everyone''s free use or not '#6#16'licensed at a'
   +'ll.'#6#0#6'0  The precise terms and conditions for copying, '#6#16'distribu'
-  +'tion and'#6#20'modification follow.'#6#1#12#6'.                    GNU GENE'
-  +'RAL PUBLIC LICENSE'#6'%   TERMS AND CONDITIONS FOR COPYING, '#6#29'DISTRIBU'
-  +'TION AND MODIFICATION'#6#0#6'7  0. This License applies to any program or o'
-  +'ther work '#6#14'which contains'#6'9a notice placed by the copyright holder'
-  +' saying it may be '#6#11'distributed'#6'5under the terms of this General Pu'
-  +'blic License.  The '#6#17'"Program", below,'#6'6refers to any such program '
-  +'or work, and a "work based '#6#15'on the Program"'#6'6means either the Prog'
-  +'ram or any derivative work under '#6#14'copyright law:'#6';that is to say, '
-  +'a work containing the Program or a portion '#6#6'of it,'#6'8either verbatim'
-  +' or with modifications and/or translated '#6#12'into another'#6'9language. '
-  +' (Hereinafter, translation is included without '#6#13'limitation in'#6'9the'
-  +' term "modification".)  Each licensee is addressed as '#6#6'"you".'#6#0#6'0'
-  +'Activities other than copying, distribution and '#6#13'modification '#6#7'a'
-  +'re not'#6':covered by this License; they are outside its scope.  The '#6#6
-  +'act of'#6'6running the Program is not restricted, and the output '#6#16'fro'
-  +'m the Program'#6';is covered only if its contents constitute a work based o'
-  +'n '#6#3'the'#6'4Program (independent of having been made by running '#6#13
+  +'tion and'#6#20'modification follow.'#18#1#0#0#0#12#0#6'.                   '
+  +' GNU GENERAL PUBLIC LICENSE'#6'%   TERMS AND CONDITIONS FOR COPYING, '#6#29
+  +'DISTRIBUTION AND MODIFICATION'#6#0#6'7  0. This License applies to any prog'
+  +'ram or other work '#6#14'which contains'#6'9a notice placed by the copyrigh'
+  +'t holder saying it may be '#6#11'distributed'#6'5under the terms of this Ge'
+  +'neral Public License.  The '#6#17'"Program", below,'#6'6refers to any such '
+  +'program or work, and a "work based '#6#15'on the Program"'#6'6means either '
+  +'the Program or any derivative work under '#6#14'copyright law:'#6';that is '
+  +'to say, a work containing the Program or a portion '#6#6'of it,'#6'8either '
+  +'verbatim or with modifications and/or translated '#6#12'into another'#6'9la'
+  +'nguage.  (Hereinafter, translation is included without '#6#13'limitation in'
+  +#6'9the term "modification".)  Each licensee is addressed as '#6#6'"you".'#6
+  +#0#6'0Activities other than copying, distribution and '#6#13'modification '#6
+  +#7'are not'#6':covered by this License; they are outside its scope.  The '#6
+  +#6'act of'#6'6running the Program is not restricted, and the output '#6#16'f'
+  +'rom the Program'#6';is covered only if its contents constitute a work based'
+  +' on '#6#3'the'#6'4Program (independent of having been made by running '#6#13
   +'the Program).'#6'1Whether that is true depends on what the Program '#6#5'do'
   +'es.'#6#0#6'8  1. You may copy and distribute verbatim copies of the '#6#9'P'
   +'rogram''s'#6'7source code as you receive it, in any medium, provided '#6#8
@@ -758,195 +756,195 @@ LazarusResources.Add('TAboutForm','FORMDATA',[
   +' a '#6#12'copy of this'#6'?    License.  (Exception: if the Program itself '
   +'is interactive '#6#3'but'#6'7    does not normally print such an announceme'
   +'nt, your '#6#13'work based on'#6',    the Program is not required to print '
-  +'an '#6#14'announcement.)'#6#1#12#6'3These requirements apply to the modifie'
-  +'d work as a '#6#10'whole.  If'#6'8identifiable sections of that work are no'
-  +'t derived from '#6#4'the '#6#8'Program,'#6'1and can be reasonably considere'
-  +'d independent and '#6#17'separate works in'#6'5themselves, then this Licens'
-  +'e, and its terms, do not '#6#6'apply '#6#8'to those'#6'6sections when you d'
-  +'istribute them as separate works.  '#6#12'But when you'#6';distribute the s'
-  +'ame sections as part of a whole which is a '#6#10'work based'#6'9on the Pro'
-  +'gram, the distribution of the whole must be on '#6#12'the terms of'#6'4this'
-  +' License, whose permissions for other licensees '#6#13'extend to the'#6'9en'
-  +'tire whole, and thus to each and every part regardless '#6#16'of who wrote '
-  +'it.'#6#0#6'>Thus, it is not the intent of this section to claim rights or '
-  ,#6#7'contest'#6'9your rights to work written entirely by you; rather, the '#6
-  +#12'intent is to'#6'=exercise the right to control the distribution of deriv'
-  +'ative '#6#2'or'#6'&collective works based on the Program.'#6#0#6'8In additi'
-  +'on, mere aggregation of another work not based '#6#14'on the Program'#6'7wi'
-  +'th the Program (or with a work based on the Program) '#6#14'on a volume of'
-  +#6':a storage or distribution medium does not bring the other '#6#10'work un'
-  +'der'#6#26'the scope of this License.'#6#0#6'8  3. You may copy and distribu'
-  +'te the Program (or a work '#6#12'based on it,'#6'9under Section 2) in objec'
-  +'t code or executable form under '#6#12'the terms of'#6'8Sections 1 and 2 ab'
-  +'ove provided that you also do one of '#6#14'the following:'#6#0#6'4    a) A'
-  +'ccompany it with the complete corresponding '#6#16'machine-readable'#6'5   '
-  +' source code, which must be distributed under the '#6#17'terms of Sections'
-  +#6'3    1 and 2 above on a medium customarily used for '#6#25'software inter'
-  +'change; or,'#6#0#6'=    b) Accompany it with a written offer, valid for at '
-  +'least '#6#5'three'#6'9    years, to give any third party, for a charge no m'
-  +'ore '#6#9'than your'#6'9    cost of physically performing source distributi'
-  +'on, a '#6#8'complete'#6'6    machine-readable copy of the corresponding sou'
-  +'rce '#6#11'code, to be'#6':    distributed under the terms of Sections 1 an'
-  +'d 2 above '#6#11'on a medium'#6'2    customarily used for software intercha'
-  +'nge; or,'#6#0#6'9    c) Accompany it with the information you received as '
-  +#6#12'to the offer'#6'4    to distribute corresponding source code.  (This '
-  +#6#14'alternative is'#6'<    allowed only for noncommercial distribution and'
-  +' only if '#6#3'you'#6'6    received the program in object code or executabl'
-  +'e '#6#14'form with such'#6'1    an offer, in accord with Subsection b above'
-  +'.)'#6#0#6'7The source code for a work means the preferred form of '#6#12'th'
-  +'e work for'#6'5making modifications to it.  For an executable work, '#6#15
-  +'complete source'#6'2code means all the source code for all modules it '#6#10
-  +'contains, '#6#8'plus any'#6'=associated interface definition files, plus th'
-  +'e scripts used '#6#2'to'#6'9control compilation and installation of the exe'
-  +'cutable.  '#6#13'However, as a'#6'8special exception, the source code distr'
-  +'ibuted need not '#6#7'include'#6';anything that is normally distributed (in'
-  +' either source or '#6#6'binary'#6'7form) with the major components (compile'
-  +'r, kernel, and '#6#13'so on) of the'#6'6operating system on which the execu'
-  +'table runs, unless '#6#14'that component'#6'"itself accompanies the executa'
-  +'ble.'#6#0#6'8If distribution of executable or object code is made by '#6#8
-  +'offering'#6'6access to copy from a designated place, then offering '#6#10'e'
-  +'quivalent'#6'3access to copy the source code from the same place '#6#9'coun'
-  +'ts as'#6';distribution of the source code, even though third parties '#6#7
-  +'are not'#6'8compelled to copy the source along with the object code.'#6#1#12
-  +#6'9  4. You may not copy, modify, sublicense, or distribute '#6#11'the Prog'
-  +'ram'#6'6except as expressly provided under this License.  Any '#6#7'attempt'
-  +#6'8otherwise to copy, modify, sublicense or distribute the '#6#10'Program i'
-  +'s'#6'9void, and will automatically terminate your rights under '#6#13'this '
-  +'License.'#6'6However, parties who have received copies, or rights, '#6#14'f'
-  +'rom you under'#6'=this License will not have their licenses terminated so l'
-  +'ong '#6#7'as such'#6'"parties remain in full compliance.'#6#0#6'8  5. You a'
-  +'re not required to accept this License, since '#6#4'you '#6#8'have not'#6'8'
-  +'signed it.  However, nothing else grants you permission '#6#12'to modify or'
-  +#6'7distribute the Program or its derivative works.  These '#6#11'actions ar'
-  +'e'#6'6prohibited by law if you do not accept this License.  '#6#13'Therefor'
-  +'e, by'#6'9modifying or distributing the Program (or any work based '#6#6'on'
-  +' the'#6'7Program), you indicate your acceptance of this License '#6#3'to '#6
-  +#10'do so, and'#6':all its terms and conditions for copying, distributing or'
-  +' '#6#9'modifying'#6'!the Program or works based on it.'#6#0#6'9  6. Each ti'
-  +'me you redistribute the Program (or any work '#6#12'based on the'#6'9Progra'
-  +'m), the recipient automatically receives a license '#6#8'from the'#6'<origi'
-  +'nal licensor to copy, distribute or modify the Program '#6#10'subject to'#6
-  +'4these terms and conditions.  You may not impose any '#6#7'further'#6'7rest'
-  +'rictions on the recipients'' exercise of the rights '#6#15'granted herein.'
-  +#6':You are not responsible for enforcing compliance by third '#6#10'parties'
-  +' to'#6#13'this License.'#6#0#6'1  7. If, as a consequence of a court judgme'
-  +'nt or '#6#20'allegation of patent'#6'5infringement or for any other reason '
-  +'(not limited to '#6#15'patent issues),'#6'7conditions are imposed on you (w'
-  +'hether by court order, '#6#12'agreement or'#6';otherwise) that contradict t'
-  ,'he conditions of this License, '#6#11'they do not'#6'8excuse you from the c'
-  +'onditions of this License.  If you '#6#6'cannot'#6'<distribute so as to sat'
-  +'isfy simultaneously your obligations '#6#10'under this'#6'7License and any '
-  +'other pertinent obligations, then as a '#6#15'consequence you'#6':may not d'
-  +'istribute the Program at all.  For example, if a '#6#6'patent'#6'<license w'
-  +'ould not permit royalty-free redistribution of the '#6#10'Program by'#6'<al'
-  +'l those who receive copies directly or indirectly through '#6#9'you, then'#6
-  +'8the only way you could satisfy both it and this License '#6#11'would be to'
-  +#6'2refrain entirely from distribution of the Program.'#6#0#6'2If any portio'
-  +'n of this section is held invalid or '#6#19'unenforceable under'#6';any par'
-  +'ticular circumstance, the balance of the section is '#6#11'intended to'#6'9'
-  +'apply and the section as a whole is intended to apply in '#6#5'other'#6#14
-  +'circumstances.'#6#0#6'7It is not the purpose of this section to induce you '
-  +'to '#6#12'infringe any'#6'5patents or other property right claims or to con'
-  +'test '#6#15'validity of any'#6'2such claims; this section has the sole purp'
-  +'ose of '#6#14'protecting the'#6':integrity of the free software distributio'
-  +'n system, which '#6#2'is'#6'6implemented by public license practices.  Many'
-  +' people '#6#9'have made'#6'5generous contributions to the wide range of sof'
-  +'tware '#6#11'distributed'#6':through that system in reliance on consistent '
-  +'application '#6#7'of that'#6'<system; it is up to the author/donor to decid'
-  +'e if he or she '#6#10'is willing'#6'6to distribute software through any oth'
-  +'er system and a '#6#15'licensee cannot'#6#19'impose that choice.'#6#0#6':Th'
-  +'is section is intended to make thoroughly clear what is '#6#11'believed to'
-  +#6'-be a consequence of the rest of this License.'#6#1#12#6'6  8. If the dis'
-  +'tribution and/or use of the Program is '#6#13'restricted in'#6'6certain cou'
-  +'ntries either by patents or by copyrighted '#6#15'interfaces, the'#6'7origi'
-  +'nal copyright holder who places the Program under '#6#12'this License'#6'9m'
-  +'ay add an explicit geographical distribution limitation '#6#9'excluding'#6
-  +';those countries, so that distribution is permitted only in '#6#3'or '#6#5
-  +'among'#6'9countries not thus excluded.  In such case, this License '#6#12'i'
-  +'ncorporates'#6'9the limitation as if written in the body of this License.'#6
-  +#0#6'6  9. The Free Software Foundation may publish revised '#6#19'and/or ne'
-  +'w versions'#6'7of the General Public License from time to time.  Such '#6#4
-  +'new '#6#13'versions will'#6'<be similar in spirit to the present version, b'
-  +'ut may differ '#6#3'in '#6#9'detail to'#6'!address new problems or concerns'
-  +'.'#6#0#6';Each version is given a distinguishing version number.  If '#6#11
-  +'the Program'#6'9specifies a version number of this License which applies '#6
-  +#3'to '#6#11'it and "any'#6';later version", you have the option of followin'
-  +'g the terms '#6#14'and conditions'#6'<either of that version or of any late'
-  +'r version published by '#6#8'the Free'#6'8Software Foundation.  If the Prog'
-  +'ram does not specify a '#6#17'version number of'#6'8this License, you may c'
-  +'hoose any version ever published '#6#20'by the Free Software'#6#11'Foundati'
-  +'on.'#6#0#6';  10. If you wish to incorporate parts of the Program into '#6
-  +#10'other free'#6'6programs whose distribution conditions are different, '#6
-  +#19'write to the author'#6':to ask for permission.  For software which is co'
-  +'pyrighted '#6#11'by the Free'#6'0Software Foundation, write to the Free Sof'
-  +'tware '#6#24'Foundation; we sometimes'#6':make exceptions for this.  Our de'
-  +'cision will be guided by '#6#13'the two goals'#6'8of preserving the free st'
-  +'atus of all derivatives of our '#6#5'free '#6#12'software and'#6'/of promot'
-  +'ing the sharing and reuse of software '#6#10'generally.'#6#0#6'''          '
-  +'                  NO WARRANTY'#6#0#6'.  11. BECAUSE THE PROGRAM IS LICENSED'
-  +' FREE OF '#6#28'CHARGE, THERE IS NO WARRANTY'#6',FOR THE PROGRAM, TO THE EX'
-  +'TENT PERMITTED BY '#6#28'APPLICABLE LAW.  EXCEPT WHEN'#6'*OTHERWISE STATED '
-  +'IN WRITING THE COPYRIGHT '#6#28'HOLDERS AND/OR OTHER PARTIES'#6'-PROVIDE TH'
-  +'E PROGRAM "AS IS" WITHOUT WARRANTY '#6#29'OF ANY KIND, EITHER EXPRESSED'#6
-  +'/OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE '#6#21'IMPLIED WARRANTIES O'
-  +'F'#6'-MERCHANTABILITY AND FITNESS FOR A PARTICULAR '#6#28'PURPOSE.  THE ENT'
-  +'IRE RISK AS'#6'&TO THE QUALITY AND PERFORMANCE OF THE '#6#8'PROGRAM '#6#24
-  +'IS WITH YOU.  SHOULD THE'#6'-PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST '
-  +#6#27'OF ALL NECESSARY SERVICING,'#6#21'REPAIR OR CORRECTION.'#6#0#6'0  12. '
-  +'IN NO EVENT UNLESS REQUIRED BY APPLICABLE '#6#27'LAW OR AGREED TO IN WRITIN'
-  +'G'#6'.WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY '#6#21'WHO MAY MODIFY A'
-  +'ND/OR'#6'-REDISTRIBUTE THE PROGRAM AS PERMITTED ABOVE, '#6#3'BE '#6#26'LIAB'
-  +'LE TO YOU FOR DAMAGES,'#6'.INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL OR '#6
-  ,#29'CONSEQUENTIAL DAMAGES ARISING'#6'/OUT OF THE USE OR INABILITY TO USE THE'
-  +' PROGRAM '#6#26'(INCLUDING BUT NOT LIMITED'#6'''TO LOSS OF DATA OR DATA BEI'
-  +'NG RENDERED '#6'!INACCURATE OR LOSSES SUSTAINED BY'#6')YOU OR THIRD PARTIES'
-  +' OR A FAILURE OF THE '#6'!PROGRAM TO OPERATE WITH ANY OTHER'#6'.PROGRAMS), '
-  +'EVEN IF SUCH HOLDER OR OTHER PARTY '#6#23'HAS BEEN ADVISED OF THE'#6#28'POS'
-  +'SIBILITY OF SUCH DAMAGES.'#6#0#6'0                     END OF TERMS AND CON'
-  +'DITIONS'#6#1#12#6'7        Appendix: How to Apply These Terms to Your New '
-  +#6#8'Programs'#6#0#6'9  If you develop a new program, and you want it to be '
-  +'of '#6#12'the greatest'#6'<possible use to the public, the best way to achi'
-  +'eve this is '#6#10'to make it'#6'2free software which everyone can redistri'
-  +'bute and '#6#25'change under these terms.'#6#0#6':  To do so, attach the fo'
-  +'llowing notices to the program.  '#6#12'It is safest'#6'8to attach them to '
-  +'the start of each source file to most '#6#11'effectively'#6'7convey the exc'
-  +'lusion of warranty; and each file should '#6#13'have at least'#6'<the "copy'
-  +'right" line and a pointer to where the full notice '#6#9'is found.'#6#0#6':'
-  +'    <one line to give the program''s name and a brief idea '#6#17'of what i'
-  +'t does.>'#6'(    Copyright (C) 19yy  <name of author>'#6#0#6';    This prog'
-  +'ram is free software; you can redistribute it '#6#13'and/or modify'#6'9    '
-  +'it under the terms of the GNU General Public License '#6#3'as '#6#12'publis'
-  +'hed by'#6':    the Free Software Foundation; either version 2 of the '#6#11
-  +'License, or'#6'''    (at your option) any later version.'#6#0#6'<    This p'
-  +'rogram is distributed in the hope that it will be '#6#7'useful,'#6'/    but'
-  +' WITHOUT ANY WARRANTY; without even the '#6#19'implied warranty of'#6'0    '
-  +'MERCHANTABILITY or FITNESS FOR A PARTICULAR '#6#17'PURPOSE.  See the'#6'0  '
-  +'  GNU General Public License for more details.'#6#0#6'7    You should have '
-  +'received a copy of the GNU General '#6#14'Public License'#6'7    along with'
-  +' this program; if not, write to the Free '#6#8'Software'#6'2    Foundation,'
-  +' Inc., 675 Mass Ave, Cambridge, MA '#6#11'02139, USA.'#6#0#6'9Also add info'
-  +'rmation on how to contact you by electronic '#6#15'and paper mail.'#6#0#6'6'
-  +'If the program is interactive, make it output a short '#6#16'notice like th'
-  +'is'#6'&when it starts in an interactive mode:'#6#0#6'7    Gnomovision versi'
-  +'on 69, Copyright (C) 19yy name of '#6#6'author'#6'3    Gnomovision comes wi'
-  +'th ABSOLUTELY NO WARRANTY; '#6#26'for details type `show w''.'#6'2    This '
-  +'is free software, and you are welcome to '#6#15'redistribute it'#6'8    und'
-  +'er certain conditions; type `show c'' for details.'#6#0#6'0The hypothetical'
-  +' commands `show w'' and `show c'' '#6#27'should show the appropriate'#6'5pa'
-  +'rts of the General Public License.  Of course, the '#6#20'commands you use '
-  +'may'#6'6be called something other than `show w'' and `show c''; '#6#18'they'
-  +' could even be'#6'0mouse-clicks or menu items--whatever suits your '#6#8'pr'
-  +'ogram.'#6#0#6'4You should also get your employer (if you work as a '#6#19'p'
-  +'rogrammer) or your'#6'9school, if any, to sign a "copyright disclaimer" for'
-  +' the '#6#11'program, if'#6'.necessary.  Here is a sample; alter the names:'
-  +#6#0#6':  Yoyodyne, Inc., hereby disclaims all copyright interest '#6#3'in '
-  +#6#11'the program'#6'2  `Gnomovision'' (which makes passes at compilers) '#6
-  +#8'written '#6#16'by James Hacker.'#6#0#6'&  <signature of Ty Coon>, 1 April'
-  +' 1989'#6#28'  Ty Coon, President of Vice'#6#0#6':This General Public Licens'
-  +'e does not permit incorporating '#6#17'your program into'#6'7proprietary pr'
-  +'ograms.  If your program is a subroutine '#6#16'library, you may'#6'6consid'
-  +'er it more useful to permit linking proprietary '#6#21'applications with th'
-  +'e'#6'6library.  If this is what you want to do, use the GNU '#6#15'Library '
-  +'General'#6'''Public License instead of this License.'#0#8'ReadOnly'#9#10'Sc'
-  +'rollBars'#7#10'ssAutoBoth'#8'TabOrder'#2#0#0#0#0#0#0
+  +'an '#6#14'announcement.)'#18#1#0#0#0#12#0#6'3These requirements apply to th'
+  +'e modified work as a '#6#10'whole.  If'#6'8identifiable sections of that wo'
+  +'rk are not derived from '#6#4'the '#6#8'Program,'#6'1and can be reasonably '
+  +'considered independent and '#6#17'separate works in'#6'5themselves, then th'
+  +'is License, and its terms, do not '#6#6'apply '#6#8'to those'#6'6sections w'
+  +'hen you distribute them as separate works.  '#6#12'But when you'#6';distrib'
+  +'ute the same sections as part of a whole which is a '#6#10'work based'#6'9o'
+  +'n the Program, the distribution of the whole must be on '#6#12'the terms of'
+  +#6'4this License, whose permissions for other licensees '#6#13'extend to the'
+  +#6'9entire whole, and thus to each and every part regardless '#6#16'of who w'
+  +'rote it.'#6#0#6'>Thus, it is not the intent of this section to claim rights'
+  ,' or '#6#7'contest'#6'9your rights to work written entirely by you; rather, '
+  +'the '#6#12'intent is to'#6'=exercise the right to control the distribution '
+  +'of derivative '#6#2'or'#6'&collective works based on the Program.'#6#0#6'8I'
+  +'n addition, mere aggregation of another work not based '#6#14'on the Progra'
+  +'m'#6'7with the Program (or with a work based on the Program) '#6#14'on a vo'
+  +'lume of'#6':a storage or distribution medium does not bring the other '#6#10
+  +'work under'#6#26'the scope of this License.'#6#0#6'8  3. You may copy and d'
+  +'istribute the Program (or a work '#6#12'based on it,'#6'9under Section 2) i'
+  +'n object code or executable form under '#6#12'the terms of'#6'8Sections 1 a'
+  +'nd 2 above provided that you also do one of '#6#14'the following:'#6#0#6'4 '
+  +'   a) Accompany it with the complete corresponding '#6#16'machine-readable'
+  +#6'5    source code, which must be distributed under the '#6#17'terms of Sec'
+  +'tions'#6'3    1 and 2 above on a medium customarily used for '#6#25'softwar'
+  +'e interchange; or,'#6#0#6'=    b) Accompany it with a written offer, valid '
+  +'for at least '#6#5'three'#6'9    years, to give any third party, for a char'
+  +'ge no more '#6#9'than your'#6'9    cost of physically performing source dis'
+  +'tribution, a '#6#8'complete'#6'6    machine-readable copy of the correspond'
+  +'ing source '#6#11'code, to be'#6':    distributed under the terms of Sectio'
+  +'ns 1 and 2 above '#6#11'on a medium'#6'2    customarily used for software i'
+  +'nterchange; or,'#6#0#6'9    c) Accompany it with the information you receiv'
+  +'ed as '#6#12'to the offer'#6'4    to distribute corresponding source code. '
+  +' (This '#6#14'alternative is'#6'<    allowed only for noncommercial distrib'
+  +'ution and only if '#6#3'you'#6'6    received the program in object code or '
+  +'executable '#6#14'form with such'#6'1    an offer, in accord with Subsectio'
+  +'n b above.)'#6#0#6'7The source code for a work means the preferred form of '
+  +#6#12'the work for'#6'5making modifications to it.  For an executable work, '
+  +#6#15'complete source'#6'2code means all the source code for all modules it '
+  +#6#10'contains, '#6#8'plus any'#6'=associated interface definition files, pl'
+  +'us the scripts used '#6#2'to'#6'9control compilation and installation of th'
+  +'e executable.  '#6#13'However, as a'#6'8special exception, the source code '
+  +'distributed need not '#6#7'include'#6';anything that is normally distribute'
+  +'d (in either source or '#6#6'binary'#6'7form) with the major components (co'
+  +'mpiler, kernel, and '#6#13'so on) of the'#6'6operating system on which the '
+  +'executable runs, unless '#6#14'that component'#6'"itself accompanies the ex'
+  +'ecutable.'#6#0#6'8If distribution of executable or object code is made by '
+  +#6#8'offering'#6'6access to copy from a designated place, then offering '#6
+  +#10'equivalent'#6'3access to copy the source code from the same place '#6#9
+  +'counts as'#6';distribution of the source code, even though third parties '#6
+  +#7'are not'#6'8compelled to copy the source along with the object code.'#18#1
+  +#0#0#0#12#0#6'9  4. You may not copy, modify, sublicense, or distribute '#6
+  +#11'the Program'#6'6except as expressly provided under this License.  Any '#6
+  +#7'attempt'#6'8otherwise to copy, modify, sublicense or distribute the '#6#10
+  +'Program is'#6'9void, and will automatically terminate your rights under '#6
+  +#13'this License.'#6'6However, parties who have received copies, or rights, '
+  +#6#14'from you under'#6'=this License will not have their licenses terminate'
+  +'d so long '#6#7'as such'#6'"parties remain in full compliance.'#6#0#6'8  5.'
+  +' You are not required to accept this License, since '#6#4'you '#6#8'have no'
+  +'t'#6'8signed it.  However, nothing else grants you permission '#6#12'to mod'
+  +'ify or'#6'7distribute the Program or its derivative works.  These '#6#11'ac'
+  +'tions are'#6'6prohibited by law if you do not accept this License.  '#6#13
+  +'Therefore, by'#6'9modifying or distributing the Program (or any work based '
+  +#6#6'on the'#6'7Program), you indicate your acceptance of this License '#6#3
+  +'to '#6#10'do so, and'#6':all its terms and conditions for copying, distribu'
+  +'ting or '#6#9'modifying'#6'!the Program or works based on it.'#6#0#6'9  6. '
+  +'Each time you redistribute the Program (or any work '#6#12'based on the'#6
+  +'9Program), the recipient automatically receives a license '#6#8'from the'#6
+  +'<original licensor to copy, distribute or modify the Program '#6#10'subject'
+  +' to'#6'4these terms and conditions.  You may not impose any '#6#7'further'#6
+  +'7restrictions on the recipients'' exercise of the rights '#6#15'granted her'
+  +'ein.'#6':You are not responsible for enforcing compliance by third '#6#10'p'
+  +'arties to'#6#13'this License.'#6#0#6'1  7. If, as a consequence of a court '
+  +'judgment or '#6#20'allegation of patent'#6'5infringement or for any other r'
+  +'eason (not limited to '#6#15'patent issues),'#6'7conditions are imposed on '
+  +'you (whether by court order, '#6#12'agreement or'#6';otherwise) that contra'
+  ,'dict the conditions of this License, '#6#11'they do not'#6'8excuse you from'
+  +' the conditions of this License.  If you '#6#6'cannot'#6'<distribute so as '
+  +'to satisfy simultaneously your obligations '#6#10'under this'#6'7License an'
+  +'d any other pertinent obligations, then as a '#6#15'consequence you'#6':may'
+  +' not distribute the Program at all.  For example, if a '#6#6'patent'#6'<lic'
+  +'ense would not permit royalty-free redistribution of the '#6#10'Program by'
+  +#6'<all those who receive copies directly or indirectly through '#6#9'you, t'
+  +'hen'#6'8the only way you could satisfy both it and this License '#6#11'woul'
+  +'d be to'#6'2refrain entirely from distribution of the Program.'#6#0#6'2If a'
+  +'ny portion of this section is held invalid or '#6#19'unenforceable under'#6
+  +';any particular circumstance, the balance of the section is '#6#11'intended'
+  +' to'#6'9apply and the section as a whole is intended to apply in '#6#5'othe'
+  +'r'#6#14'circumstances.'#6#0#6'7It is not the purpose of this section to ind'
+  +'uce you to '#6#12'infringe any'#6'5patents or other property right claims o'
+  +'r to contest '#6#15'validity of any'#6'2such claims; this section has the s'
+  +'ole purpose of '#6#14'protecting the'#6':integrity of the free software dis'
+  +'tribution system, which '#6#2'is'#6'6implemented by public license practice'
+  +'s.  Many people '#6#9'have made'#6'5generous contributions to the wide rang'
+  +'e of software '#6#11'distributed'#6':through that system in reliance on con'
+  +'sistent application '#6#7'of that'#6'<system; it is up to the author/donor '
+  +'to decide if he or she '#6#10'is willing'#6'6to distribute software through'
+  +' any other system and a '#6#15'licensee cannot'#6#19'impose that choice.'#6
+  +#0#6':This section is intended to make thoroughly clear what is '#6#11'belie'
+  +'ved to'#6'-be a consequence of the rest of this License.'#18#1#0#0#0#12#0#6
+  +'6  8. If the distribution and/or use of the Program is '#6#13'restricted in'
+  +#6'6certain countries either by patents or by copyrighted '#6#15'interfaces,'
+  +' the'#6'7original copyright holder who places the Program under '#6#12'this'
+  +' License'#6'9may add an explicit geographical distribution limitation '#6#9
+  +'excluding'#6';those countries, so that distribution is permitted only in '#6
+  +#3'or '#6#5'among'#6'9countries not thus excluded.  In such case, this Licen'
+  +'se '#6#12'incorporates'#6'9the limitation as if written in the body of this'
+  +' License.'#6#0#6'6  9. The Free Software Foundation may publish revised '#6
+  +#19'and/or new versions'#6'7of the General Public License from time to time.'
+  +'  Such '#6#4'new '#6#13'versions will'#6'<be similar in spirit to the prese'
+  +'nt version, but may differ '#6#3'in '#6#9'detail to'#6'!address new problem'
+  +'s or concerns.'#6#0#6';Each version is given a distinguishing version numbe'
+  +'r.  If '#6#11'the Program'#6'9specifies a version number of this License wh'
+  +'ich applies '#6#3'to '#6#11'it and "any'#6';later version", you have the op'
+  +'tion of following the terms '#6#14'and conditions'#6'<either of that versio'
+  +'n or of any later version published by '#6#8'the Free'#6'8Software Foundati'
+  +'on.  If the Program does not specify a '#6#17'version number of'#6'8this Li'
+  +'cense, you may choose any version ever published '#6#20'by the Free Softwar'
+  +'e'#6#11'Foundation.'#6#0#6';  10. If you wish to incorporate parts of the P'
+  +'rogram into '#6#10'other free'#6'6programs whose distribution conditions ar'
+  +'e different, '#6#19'write to the author'#6':to ask for permission.  For sof'
+  +'tware which is copyrighted '#6#11'by the Free'#6'0Software Foundation, writ'
+  +'e to the Free Software '#6#24'Foundation; we sometimes'#6':make exceptions '
+  +'for this.  Our decision will be guided by '#6#13'the two goals'#6'8of prese'
+  +'rving the free status of all derivatives of our '#6#5'free '#6#12'software '
+  +'and'#6'/of promoting the sharing and reuse of software '#6#10'generally.'#6
+  +#0#6'''                            NO WARRANTY'#6#0#6'.  11. BECAUSE THE PRO'
+  +'GRAM IS LICENSED FREE OF '#6#28'CHARGE, THERE IS NO WARRANTY'#6',FOR THE PR'
+  +'OGRAM, TO THE EXTENT PERMITTED BY '#6#28'APPLICABLE LAW.  EXCEPT WHEN'#6'*O'
+  +'THERWISE STATED IN WRITING THE COPYRIGHT '#6#28'HOLDERS AND/OR OTHER PARTIE'
+  +'S'#6'-PROVIDE THE PROGRAM "AS IS" WITHOUT WARRANTY '#6#29'OF ANY KIND, EITH'
+  +'ER EXPRESSED'#6'/OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE '#6#21'IMPL'
+  +'IED WARRANTIES OF'#6'-MERCHANTABILITY AND FITNESS FOR A PARTICULAR '#6#28'P'
+  +'URPOSE.  THE ENTIRE RISK AS'#6'&TO THE QUALITY AND PERFORMANCE OF THE '#6#8
+  +'PROGRAM '#6#24'IS WITH YOU.  SHOULD THE'#6'-PROGRAM PROVE DEFECTIVE, YOU AS'
+  +'SUME THE COST '#6#27'OF ALL NECESSARY SERVICING,'#6#21'REPAIR OR CORRECTION'
+  +'.'#6#0#6'0  12. IN NO EVENT UNLESS REQUIRED BY APPLICABLE '#6#27'LAW OR AGR'
+  +'EED TO IN WRITING'#6'.WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY '#6#21
+  +'WHO MAY MODIFY AND/OR'#6'-REDISTRIBUTE THE PROGRAM AS PERMITTED ABOVE, '#6#3
+  +'BE '#6#26'LIABLE TO YOU FOR DAMAGES,'#6'.INCLUDING ANY GENERAL, SPECIAL, IN'
+  ,'CIDENTAL OR '#6#29'CONSEQUENTIAL DAMAGES ARISING'#6'/OUT OF THE USE OR INAB'
+  +'ILITY TO USE THE PROGRAM '#6#26'(INCLUDING BUT NOT LIMITED'#6'''TO LOSS OF '
+  +'DATA OR DATA BEING RENDERED '#6'!INACCURATE OR LOSSES SUSTAINED BY'#6')YOU '
+  +'OR THIRD PARTIES OR A FAILURE OF THE '#6'!PROGRAM TO OPERATE WITH ANY OTHER'
+  +#6'.PROGRAMS), EVEN IF SUCH HOLDER OR OTHER PARTY '#6#23'HAS BEEN ADVISED OF'
+  +' THE'#6#28'POSSIBILITY OF SUCH DAMAGES.'#6#0#6'0                     END OF'
+  +' TERMS AND CONDITIONS'#18#1#0#0#0#12#0#6'7        Appendix: How to Apply Th'
+  +'ese Terms to Your New '#6#8'Programs'#6#0#6'9  If you develop a new program'
+  +', and you want it to be of '#6#12'the greatest'#6'<possible use to the publ'
+  +'ic, the best way to achieve this is '#6#10'to make it'#6'2free software whi'
+  +'ch everyone can redistribute and '#6#25'change under these terms.'#6#0#6': '
+  +' To do so, attach the following notices to the program.  '#6#12'It is safes'
+  +'t'#6'8to attach them to the start of each source file to most '#6#11'effect'
+  +'ively'#6'7convey the exclusion of warranty; and each file should '#6#13'hav'
+  +'e at least'#6'<the "copyright" line and a pointer to where the full notice '
+  +#6#9'is found.'#6#0#6':    <one line to give the program''s name and a brief'
+  +' idea '#6#17'of what it does.>'#6'(    Copyright (C) 19yy  <name of author>'
+  +#6#0#6';    This program is free software; you can redistribute it '#6#13'an'
+  +'d/or modify'#6'9    it under the terms of the GNU General Public License '#6
+  +#3'as '#6#12'published by'#6':    the Free Software Foundation; either versi'
+  +'on 2 of the '#6#11'License, or'#6'''    (at your option) any later version.'
+  +#6#0#6'<    This program is distributed in the hope that it will be '#6#7'us'
+  +'eful,'#6'/    but WITHOUT ANY WARRANTY; without even the '#6#19'implied war'
+  +'ranty of'#6'0    MERCHANTABILITY or FITNESS FOR A PARTICULAR '#6#17'PURPOSE'
+  +'.  See the'#6'0    GNU General Public License for more details.'#6#0#6'7   '
+  +' You should have received a copy of the GNU General '#6#14'Public License'#6
+  +'7    along with this program; if not, write to the Free '#6#8'Software'#6'2'
+  +'    Foundation, Inc., 675 Mass Ave, Cambridge, MA '#6#11'02139, USA.'#6#0#6
+  +'9Also add information on how to contact you by electronic '#6#15'and paper '
+  +'mail.'#6#0#6'6If the program is interactive, make it output a short '#6#16
+  +'notice like this'#6'&when it starts in an interactive mode:'#6#0#6'7    Gno'
+  +'movision version 69, Copyright (C) 19yy name of '#6#6'author'#6'3    Gnomov'
+  +'ision comes with ABSOLUTELY NO WARRANTY; '#6#26'for details type `show w''.'
+  +#6'2    This is free software, and you are welcome to '#6#15'redistribute it'
+  +#6'8    under certain conditions; type `show c'' for details.'#6#0#6'0The hy'
+  +'pothetical commands `show w'' and `show c'' '#6#27'should show the appropri'
+  +'ate'#6'5parts of the General Public License.  Of course, the '#6#20'command'
+  +'s you use may'#6'6be called something other than `show w'' and `show c''; '
+  +#6#18'they could even be'#6'0mouse-clicks or menu items--whatever suits your'
+  +' '#6#8'program.'#6#0#6'4You should also get your employer (if you work as a'
+  +' '#6#19'programmer) or your'#6'9school, if any, to sign a "copyright discla'
+  +'imer" for the '#6#11'program, if'#6'.necessary.  Here is a sample; alter th'
+  +'e names:'#6#0#6':  Yoyodyne, Inc., hereby disclaims all copyright interest '
+  +#6#3'in '#6#11'the program'#6'2  `Gnomovision'' (which makes passes at compi'
+  +'lers) '#6#8'written '#6#16'by James Hacker.'#6#0#6'&  <signature of Ty Coon'
+  +'>, 1 April 1989'#6#28'  Ty Coon, President of Vice'#6#0#6':This General Pub'
+  +'lic License does not permit incorporating '#6#17'your program into'#6'7prop'
+  +'rietary programs.  If your program is a subroutine '#6#16'library, you may'
+  +#6'6consider it more useful to permit linking proprietary '#6#21'application'
+  +'s with the'#6'6library.  If this is what you want to do, use the GNU '#6#15
+  +'Library General'#6'''Public License instead of this License.'#0#8'ReadOnly'
+  +#9#10'ScrollBars'#7#10'ssAutoBoth'#8'TabOrder'#2#0#0#0#0#0#0
 ]);

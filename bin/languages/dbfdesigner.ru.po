@@ -12,194 +12,6 @@
 "from other DBF table\n"
 msgstr "из другого файла .dbf"
 
-#: taboutform.abouttabsheet.caption
-#, fuzzy
-#| msgid ""
-#| "Project-Id-Version: \n"
-#| "POT-Creation-Date: \n"
-#| "PO-Revision-Date: 2012-03-21 00:00+0200\n"
-#| "Last-Translator: \n"
-#| "Language-Team: \n"
-#| "MIME-Version: 1.0\n"
-#| "Content-Type: text/plain; charset=iso-8859-1\n"
-#| "Content-Transfer-Encoding: 8bit\n"
-#| "Content-Type: text/plain; charset=UTF-8\n"
-#| "About\n"
-msgctxt "taboutform.abouttabsheet.caption"
-msgid "About"
-msgstr "Про..."
-
-#: taboutform.caption
-msgid "AboutForm"
-msgstr ""
-
-#: taboutform.gpltabsheet.caption
-msgctxt "taboutform.gpltabsheet.caption"
-msgid "License"
-msgstr "Лицензия"
-
-#: tformdbsructuredesigner.addbutton.caption
-msgctxt "tformdbsructuredesigner.addbutton.caption"
-msgid "Add new"
-msgstr "Добавить новый"
-
-#: tformdbsructuredesigner.addindexbutton.caption
-msgid "Add"
-msgstr "Добавить"
-
-#: tformdbsructuredesigner.borrowbutton.caption
-msgid "Borrow..."
-msgstr "Наследовать..."
-
-#: tformdbsructuredesigner.borrowbutton.hint
-msgid "Get structure info "
-msgstr "Информация о структуре"
-
-#: tformdbsructuredesigner.borrowopendialog.title
-msgid "Open file"
-msgstr "Открыть файл"
-
-#: tformdbsructuredesigner.caption
-msgid "Table structure"
-msgstr "Структура таблицы"
-
-#: tformdbsructuredesigner.changebutton.caption
-msgctxt "tformdbsructuredesigner.changebutton.caption"
-msgid "Edit current"
-msgstr "Редактировать"
-
-#: tformdbsructuredesigner.clearindexesbutton.caption
-msgid "Clear all"
-msgstr "Очистить всё"
-
-#: tformdbsructuredesigner.deletebutton.caption
-msgctxt "tformdbsructuredesigner.deletebutton.caption"
-msgid "Delete current"
-msgstr "Удалить"
-
-#: tformdbsructuredesigner.fielddesclabel.caption
-msgctxt "TFORMDBSRUCTUREDESIGNER.FIELDDESCLABEL.CAPTION"
-msgid "Fields description"
-msgstr "Описание поля"
-
-#: tformdbsructuredesigner.groupbox1.caption
-msgctxt "tformdbsructuredesigner.groupbox1.caption"
-msgid "Table properties"
-msgstr "Свойства таблицы"
-
-#: tformdbsructuredesigner.indexcombobox.text
-msgid "none"
-msgstr ""
-
-#: tformdbsructuredesigner.infolabel.caption
-msgctxt "TFORMDBSRUCTUREDESIGNER.INFOLABEL.CAPTION"
-msgid "Enter field name of 10 characters or less,"
-msgstr "Введите название поля 10 символов или меньше,"
-
-#: tformdbsructuredesigner.menuitem1.caption
-msgid "Move Top"
-msgstr "Вверх"
-
-#: tformdbsructuredesigner.menuitem10.caption
-msgid "Borrow structure"
-msgstr "Наследовать структуру"
-
-#: tformdbsructuredesigner.menuitem11.caption
-msgctxt "TFORMDBSRUCTUREDESIGNER.MENUITEM11.CAPTION"
-msgid "-"
-msgstr "-"
-
-#: tformdbsructuredesigner.menuitem2.caption
-msgid "Move Up"
-msgstr "Выше"
-
-#: tformdbsructuredesigner.menuitem3.caption
-msgid "Move Down"
-msgstr "Ниже"
-
-#: tformdbsructuredesigner.menuitem4.caption
-msgid "Move Bottom"
-msgstr "Вниз"
-
-#: tformdbsructuredesigner.menuitem6.caption
-msgctxt "TFORMDBSRUCTUREDESIGNER.MENUITEM6.CAPTION"
-msgid "-"
-msgstr "-"
-
-#: tformdbsructuredesigner.menuitem7.caption
-msgid "Append field"
-msgstr "Добавить поле"
-
-#: tformdbsructuredesigner.menuitem8.caption
-msgid "Edit field"
-msgstr "Редактировать поле"
-
-#: tformdbsructuredesigner.menuitem9.caption
-msgid "Delete field"
-msgstr "Удалить поле"
-
-#: tformdbsructuredesigner.modifyindexbutton.caption
-msgid "Modify"
-msgstr "Изменить"
-
-#: tformdbsructuredesigner.packcheckbox.caption
-msgctxt "tformdbsructuredesigner.packcheckbox.caption"
-msgid "Pack table"
-msgstr "Сжать таблицу"
-
-#: tformdbsructuredesigner.removeindexbutton.caption
-msgid "Remove"
-msgstr "Удаисть"
-
-#: tformdbsructuredesigner.savebutton.caption
-msgid "Save&&Close"
-msgstr "Сохранить&&закрыть"
-
-#: tformdbsructuredesigner.tabsheet1.caption
-msgctxt "tformdbsructuredesigner.tabsheet1.caption"
-msgid "Indexes"
-msgstr "Индексы"
-
-#: tformdbsructuredesigner.tabsheet2.caption
-msgctxt "tformdbsructuredesigner.tabsheet2.caption"
-msgid "Language"
-msgstr "Язык"
-
-#: tformft.cancelbitbtn.caption
-msgctxt "tformft.cancelbitbtn.caption"
-msgid "Cancel"
-msgstr "Отмена"
-
-#: tformft.caption
-msgctxt "tformft.caption"
-msgid "Field type"
-msgstr "Тип поля"
-
-#: tformft.createbitbtn.caption
-msgctxt "tformft.createbitbtn.caption"
-msgid "Create"
-msgstr "Создать"
-
-#: tformft.fieldnamelabel.caption
-msgctxt "TFORMFT.FIELDNAMELABEL.CAPTION"
-msgid "Field name"
-msgstr "Имя поля"
-
-#: tformft.fieldtypelabel.caption
-msgctxt "TFORMFT.FIELDTYPELABEL.CAPTION"
-msgid "Field type"
-msgstr "Тип поля"
-
-#: tformft.precisionlabel.caption
-msgctxt "TFORMFT.PRECISIONLABEL.CAPTION"
-msgid "Precision"
-msgstr "Точность"
-
-#: tformft.sizelabel.caption
-msgctxt "TFORMFT.SIZELABEL.CAPTION"
-msgid "Size"
-msgstr "Размер"
-
 #: tformmain.acrrestructuredbf.caption
 msgid "Restructure"
 msgstr "Изменить структуру"
@@ -312,11 +124,6 @@ msgctxt "tformmain.localelabel.caption"
 msgid "DBF locale"
 msgstr "Локаль DBF"
 
-#: tformmain.menuitem1.caption
-msgctxt "tformmain.menuitem1.caption"
-msgid "-"
-msgstr "-"
-
 #: tformmain.menuitem10.caption
 msgid "Record..."
 msgstr "Запись..."
@@ -332,11 +139,6 @@ msgstr "Восстановить"
 #: tformmain.menuitem13.caption
 msgid "Clear"
 msgstr "Очистить"
-
-#: tformmain.menuitem2.caption
-msgctxt "tformmain.menuitem2.caption"
-msgid "-"
-msgstr "-"
 
 #: tformmain.menuitem5.caption
 msgid "as Pascal source"
@@ -417,51 +219,6 @@ msgstr "Перекодирование записей..."
 #: tformmain.toolssortmenuitem.caption
 msgid "&Sort Data..."
 msgstr "Сортировка данных"
-
-#: tformselectdbtype.cancelbitbtn.caption
-msgctxt "tformselectdbtype.cancelbitbtn.caption"
-msgid "Cancel"
-msgstr "Отмена"
-
-#: tformselectdbtype.caption
-msgctxt "tformselectdbtype.caption"
-msgid "Create table"
-msgstr "Создать таблицу"
-
-#: tformselectdbtype.cbtabletypecombobox.text
-msgctxt "tformselectdbtype.cbtabletypecombobox.text"
-msgid "dBase III+"
-msgstr ""
-
-#: tformselectdbtype.createbitbtn.caption
-msgctxt "tformselectdbtype.createbitbtn.caption"
-msgid "Create"
-msgstr "Создать"
-
-#: tformselectdbtype.tabletypelabel.caption
-msgctxt "TFORMSELECTDBTYPE.TABLETYPELABEL.CAPTION"
-msgid "Table type:"
-msgstr "Тип таблицы:"
-
-#: tindexform.cbdescending.caption
-msgid "Descending"
-msgstr "По убыванию"
-
-#: tindexform.cbmaintained.caption
-msgid "Maintained"
-msgstr ""
-
-#: tindexform.cbunique.caption
-msgid "Unique"
-msgstr "Уникальный"
-
-#: tindexform.checkgroup1.caption
-msgid "Options"
-msgstr "Опции"
-
-#: tindexform.label1.caption
-msgid "Fields"
-msgstr "Поля"
 
 #: urstrrings.rsabout
 msgctxt "urstrrings.rsabout"
@@ -558,6 +315,7 @@ msgstr ""
 "Используйте только символы A-Z, 0-9 и _.\n"
 
 #: urstrrings.rsexportingrec
+#, object-pascal-format
 msgid "Exporting %s record from %s"
 msgstr "Экспорт %s записи из %s"
 
@@ -617,9 +375,13 @@ msgid "Indexes"
 msgstr "Индексы"
 
 #: urstrrings.rsindexmissing
+#, fuzzy
+#| msgid ""
+#| "Index missing!\n"
+#| "All indexes will be cleared!\n"
 msgid ""
 "Index missing!\n"
-"All indexes will be cleared!\n"
+"All indexes will be cleared!"
 msgstr ""
 "Индекс отсутствует!\n"
 " Все индексы будут очищены!\n"
@@ -676,6 +438,7 @@ msgid "Save and close"
 msgstr "Сохранить и закрыть"
 
 #: urstrrings.rssavedas
+#, object-pascal-format
 msgid "Saved as %s"
 msgstr "Сохранить как %s"
 

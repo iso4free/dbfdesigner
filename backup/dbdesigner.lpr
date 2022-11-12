@@ -49,7 +49,7 @@ begin
   lang:='';
   fallbacklang:='';
   LazGetLanguageIDs(lang,fallbacklang);
-  translations.TranslateUnitResourceStrings('urstrrings',poDidectory+ApplicationName+'.%.po',lang,fallbacklang);
+  translations.TranslateUnitResourceStrings('urstrrings',poDidectory+'dbfdesigner.%.po',lang,fallbacklang);
 end;
 
 begin
